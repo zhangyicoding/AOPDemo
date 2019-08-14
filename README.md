@@ -3,13 +3,15 @@
 https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
 
 
-本demo有如下试验：
+本demo通过了如下试验：
  - kotlin
  - multidex
+ - 混淆
  - 组件化，使用ARouter
  - 注解处理器，使用ARouter
 
-不知道为什么，打带签名的release包在手机上安装不成功，先把这个问题记下来。
+未通过的：
+- 不知道为什么，打带签名的release包在手机上安装不成功，先把这个问题记下来。
 
 advice代码在aspect_library模块中，并附带了aspectj的匹配规则。
 
