@@ -1,4 +1,4 @@
-- 感谢沪江开源的aspect框架，它在AspectJ的基础上新增了kotlin语言和jar、aar的适配。github如下：
+感谢沪江开源的aspect框架，它在AspectJ的基础上新增了kotlin语言和jar、aar的适配。github如下：
 
 https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx
 
