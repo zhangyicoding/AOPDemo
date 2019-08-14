@@ -1,0 +1,1 @@
+include ':app', ':secondlibrary', ':baselibrary', ':asepct_library'
